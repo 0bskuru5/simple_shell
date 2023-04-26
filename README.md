@@ -13,8 +13,7 @@
  - **USAGE**
  - **Example of Usage**
  - **Bugs**
- - **TEAM**
- ****
+
 
 ## What is the shell?
 The shell is a program that takes commands from the keyboard via the terminal, and gives them to the operating system to perform.\
@@ -153,24 +152,3 @@ ubunto@ubuntu:~/Bureau/simple_shell$
 ## Bugs
 No known Bugs.
 
-## TEAM
-Chokri Inès  : [LinkedIn/inès] | [GitHub/inès] | [Twitter/inès]\
-Matri Mariem : [LinkedIn/mariem] | [GitHub/mariem] | [Twitter/mariem]
-
-[Article]: <https://www.linkedin.com/pulse/what-really-happens-when-you-type-ls-l-shell-mariem-matri/>
-[Holberton School]: <https://www.holbertonschool.com>
-[LinkedIn/inès]: <https://www.linkedin.com/in/in%C3%A8s-chokri-b247b7175>
-[LinkedIn/mariem]: <https://www.linkedin.com/in/mariem-matri-249620178>
-[GitHub/inès]: <https://github.com/CutiePizza>
-[GitHub/mariem]: <https://github.com/MatriMariem>
-[Twitter/inès]: <https://twitter.com/chokri_ines>
-[Twitter/mariem]: <https://twitter.com/MatriMariem>
-
-## AUTHOR DESCRIPTION (Mariem Matri)
- - I'm a Food Process Engineer and a software engineering student at Holberton School.
-  - I have been studying low-level programming, high-level
- programming, system engineering and devops, and web
- stack programming (Front-end & Back-end) using a
- methodology based on peer-learning and projects.
-  - I'm curious, adaptable, a fast learner and I love developing
- my skills.
